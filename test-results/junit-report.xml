@@ -1,32 +1,32 @@
-<testsuites id="" name="" tests="12" failures="0" skipped="0" errors="0" time="19.27032">
-<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:07:08.181Z" hostname="chromium" tests="4" failures="0" skipped="0" time="15.934" errors="0">
-<testcase name="Enter Name" classname="program1.spec.ts" time="3.948">
+<testsuites id="" name="" tests="12" failures="0" skipped="0" errors="0" time="18.106529">
+<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:17:14.031Z" hostname="chromium" tests="4" failures="0" skipped="0" time="17.883" errors="0">
+<testcase name="Enter Name" classname="program1.spec.ts" time="5.271">
 </testcase>
-<testcase name="Enter Email" classname="program1.spec.ts" time="4.061">
+<testcase name="Enter Email" classname="program1.spec.ts" time="4.743">
 </testcase>
-<testcase name="Enter Phone Number" classname="program1.spec.ts" time="2.934">
+<testcase name="Enter Phone Number" classname="program1.spec.ts" time="4.047">
 </testcase>
-<testcase name="Enter Address" classname="program1.spec.ts" time="4.991">
-</testcase>
-</testsuite>
-<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:07:08.181Z" hostname="firefox" tests="4" failures="0" skipped="0" time="25.095" errors="0">
-<testcase name="Enter Name" classname="program1.spec.ts" time="6.515">
-</testcase>
-<testcase name="Enter Email" classname="program1.spec.ts" time="5.451">
-</testcase>
-<testcase name="Enter Phone Number" classname="program1.spec.ts" time="7.36">
-</testcase>
-<testcase name="Enter Address" classname="program1.spec.ts" time="5.769">
+<testcase name="Enter Address" classname="program1.spec.ts" time="3.822">
 </testcase>
 </testsuite>
-<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:07:08.181Z" hostname="webkit" tests="4" failures="0" skipped="0" time="15.517" errors="0">
-<testcase name="Enter Name" classname="program1.spec.ts" time="3.994">
+<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:17:14.031Z" hostname="firefox" tests="4" failures="0" skipped="0" time="22.413" errors="0">
+<testcase name="Enter Name" classname="program1.spec.ts" time="5.923">
 </testcase>
-<testcase name="Enter Email" classname="program1.spec.ts" time="4.023">
+<testcase name="Enter Email" classname="program1.spec.ts" time="4.933">
 </testcase>
-<testcase name="Enter Phone Number" classname="program1.spec.ts" time="3.754">
+<testcase name="Enter Phone Number" classname="program1.spec.ts" time="5.842">
 </testcase>
-<testcase name="Enter Address" classname="program1.spec.ts" time="3.746">
+<testcase name="Enter Address" classname="program1.spec.ts" time="5.715">
+</testcase>
+</testsuite>
+<testsuite name="program1.spec.ts" timestamp="2025-10-04T13:17:14.031Z" hostname="webkit" tests="4" failures="0" skipped="0" time="14.799" errors="0">
+<testcase name="Enter Name" classname="program1.spec.ts" time="3.604">
+</testcase>
+<testcase name="Enter Email" classname="program1.spec.ts" time="4.527">
+</testcase>
+<testcase name="Enter Phone Number" classname="program1.spec.ts" time="2.574">
+</testcase>
+<testcase name="Enter Address" classname="program1.spec.ts" time="4.094">
 </testcase>
 </testsuite>
 </testsuites>
